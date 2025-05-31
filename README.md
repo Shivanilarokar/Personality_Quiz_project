@@ -30,7 +30,7 @@ This app takes your **name**, **age**, **favorite color**, **food**, **animal**,
 
 ## 🚀 Try it Live
 
-👉 **[Click to Launch the App on Streamlit](https://your-app-url.streamlit.app)**  
+👉 **[Click to Launch the App on Streamlit](https://shivaaa.streamlit.app/)**  
 
 
 ---
